@@ -18,3 +18,6 @@ npm run start
 
 * Port = 3000
 * Host = 0.0.0.0
+
+Read the full [@medium](https://medium.com/@rama41222/custom-social-auth-flow-with-auth-nuxtjs-org-daa836676587)
+post.
