@@ -4,15 +4,23 @@
 
 Add the google oAuth client ID, Facebook app client ID and the API base url first
 
-##### Run the project in dev mode
+##### Install the Dependencies
 ````
 npm install
+````
+
+##### update the Dependencies
+````
+npm update
+````
+
+##### Run the project in dev mode
+````
 npm run dev
 ````
 
 ##### Run the project in production mode
 ````
-npm install
 npm run start
 ````
 
